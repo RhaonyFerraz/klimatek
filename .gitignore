@@ -1,0 +1,13 @@
+# Sistema operacional / temporários
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.bak
+*-backup.html
+
+# Dependências / ambiente
+node_modules/
+.env
+.env.local
+.firebase/
